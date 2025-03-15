@@ -1,0 +1,2 @@
+C:/Users/jorge/OneDrive/Escritorio/repos/auditext/android/app/.cxx/RelWithDebInfo/2y5e5f1d/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/jorge/OneDrive/Escritorio/repos/auditext/android/app/.cxx/RelWithDebInfo/2y5e5f1d/x86_64/CMakeFiles/rebuild_cache.dir
